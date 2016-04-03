@@ -65,9 +65,11 @@
             $document.unbind('mouseup.thumb');
           });
         };
-        var notifyOnChange = function(val){
-          scope.onChange(({value: val}));
-        }
+        var notifyOnChange = function(newValue) {
+          if (typeof scope.onChange === 'function') {
+              scope.onChange({value: newValue});
+          }
+        };
       }
     };
   }
