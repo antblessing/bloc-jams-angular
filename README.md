@@ -45,3 +45,6 @@ A list of the Grunt plugins in this application.
 #### Hapi
 
 [Grunt Hapi](https://github.com/athieriot/grunt-hapi) runs a server using [`HapiJS`](http://hapijs.com/). Happy is a Node web application framework with robust configuration options.
+
+![image1](http://i392.photobucket.com/albums/pp9/gmb89/Screen%20Shot%202016-05-11%20at%2011.02.21%20PM_zpsu7bdmq6l.png)
+![image2](http://i392.photobucket.com/albums/pp9/gmb89/Screen%20Shot%202016-05-11%20at%2010.59.04%20PM_zpsozio1fjt.png)
